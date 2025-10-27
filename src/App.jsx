@@ -231,7 +231,7 @@ function App() {
   return (
     <div className="wrap narrow">
       <header className="top">
-        <div className="brand">Billora</div>
+        <div className="brand">Billura</div>
         <div className="brand">Minimal Invoice</div>
         <div className="actions">
           <button onClick={() => setData(emptyInvoice())}>New</button>
